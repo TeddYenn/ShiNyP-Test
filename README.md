@@ -1,6 +1,8 @@
 
 <img src="https://github.com/user-attachments/assets/8638189c-e418-46b9-aa4a-a50806d21ead" alt="icon-removebg-preview" width="100"/>
 
+# This temporary page is only for Reviwers uses, for general users please visit [https://github.com/TeddYenn/ShiNyP](https://github.com/TeddYenn/ShiNyP)
+
 # _ShiNyP_: An Interactive Shiny-based Platform for Genome-Wide SNP Analysis and Visualization
 
 ![CI](https://img.shields.io/badge/build-passing-brightgreen)
@@ -26,7 +28,7 @@
 ### Step 2: Install the _ShiNyP_ Package from GitHub
    ```R
    install.packages("remotes")
-   remotes::install_github("TeddYenn/ShiNyP-Test", force = TRUE)
+   remotes::install_github("TeddYenn/ShiNyP_Test", force = TRUE)
    ```
 ### Step 3: Start the _ShiNyP_ Platform
    ```R
