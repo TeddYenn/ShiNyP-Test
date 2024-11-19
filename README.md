@@ -1,7 +1,8 @@
 
 <img src="https://github.com/user-attachments/assets/8638189c-e418-46b9-aa4a-a50806d21ead" alt="icon-removebg-preview" width="100"/>
 
-# This temporary page is only for Reviwers uses, for general users please visit [https://github.com/TeddYenn/ShiNyP](https://github.com/TeddYenn/ShiNyP)
+## This temporary page is intended for REVIWERS only. 
+## General users are kindly directed to visit [https://github.com/TeddYenn/ShiNyP](https://github.com/TeddYenn/ShiNyP).
 
 # _ShiNyP_: An Interactive Shiny-based Platform for Genome-Wide SNP Analysis and Visualization
 
