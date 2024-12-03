@@ -24,7 +24,7 @@
    ```R
    install.packages("BiocManager")
    BiocManager::install(version = "3.19")
-   BiocManager::install("qvalue")
+   BiocManager::install(c("qvalue", "SNPRelate", "ggtree"), force = TRUE)
    ```
 ### Step 2: Install the _ShiNyP_ Package from GitHub
    ```R
